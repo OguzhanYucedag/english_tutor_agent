@@ -24,7 +24,7 @@ Model: **Ollama** + **qwen3:8b** (bilgisayarında çalışır, API anahtarı ger
 ```bash
 # Depoyu aç
 cd english_tutor_agent
-
+sadasdasdsdsa
 # Sanal ortam
 python3 -m venv venv
 source venv/bin/activate
